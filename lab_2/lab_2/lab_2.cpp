@@ -93,7 +93,7 @@ std::chrono::duration<double> mul_matrix(const std::vector<std::vector<int>>& ma
 
 
 int main() {
-    int num_threads = 6;
+    int num_threads = 10;
 
     std::vector<size_t> matrix_sizes = { 100, 200, 300, 400, 500, 1000, 1500, 2000 };
 
