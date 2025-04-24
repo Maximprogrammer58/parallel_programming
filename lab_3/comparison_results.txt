@@ -1,0 +1,8 @@
+SIZE: 100x100: Correct
+SIZE: 200x200: Correct
+SIZE: 300x300: Correct
+SIZE: 400x400: Correct
+SIZE: 500x500: Correct
+SIZE: 1000x1000: Correct
+SIZE: 1500x1500: Correct
+SIZE: 2000x2000: Correct
