@@ -1,8 +1,8 @@
-SIZE: 100x100, Processes: 16, Time: 0.00309706 seconds
-SIZE: 200x200, Processes: 16, Time: 0.0222661 seconds
-SIZE: 300x300, Processes: 16, Time: 0.06567 seconds
-SIZE: 400x400, Processes: 16, Time: 0.100762 seconds
-SIZE: 500x500, Processes: 16, Time: 0.199523 seconds
-SIZE: 1000x1000, Processes: 16, Time: 1.78955 seconds
-SIZE: 1500x1500, Processes: 16, Time: 6.10452 seconds
-SIZE: 2000x2000, Processes: 16, Time: 14.4202 seconds
+SIZE: 100x100, Processes: 16, Time: 0.00393605 seconds
+SIZE: 200x200, Processes: 16, Time: 0.0264671 seconds
+SIZE: 300x300, Processes: 16, Time: 0.0674341 seconds
+SIZE: 400x400, Processes: 16, Time: 0.0994241 seconds
+SIZE: 500x500, Processes: 16, Time: 0.210187 seconds
+SIZE: 1000x1000, Processes: 16, Time: 1.7895 seconds
+SIZE: 1500x1500, Processes: 16, Time: 6.2371 seconds
+SIZE: 2000x2000, Processes: 16, Time: 14.4804 seconds
